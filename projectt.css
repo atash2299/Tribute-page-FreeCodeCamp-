@@ -1,0 +1,65 @@
+body {
+  background-color: #b0c4de;
+}
+#tribute-info {
+  font-size: 2.6em;
+  text-align: center;
+  color: rgb(39, 32, 32);
+  letter-spacing: 0.2em;
+}
+/* .ronaldo-first-team-photo {
+    } */
+.quote-p {
+  text-align: center;
+  font-size: 1.1em;
+  color: rgb(77, 86, 95);
+  margin-top: -1em;
+}
+.list-history {
+  text-align: center;
+  padding-bottom: 1.5em;
+  padding-top: 1.5em;
+  font-size: 1.3em;
+}
+.life-history {
+  color: rgb(43, 33, 35);
+}
+ul {
+  margin: 0 auto;
+  display: table;
+  font-size: 1.1em;
+}
+li {
+  font-size: 1em;
+  margin-bottom: 1.3em;
+  margin-left: 2em;
+}
+#img-div {
+  background-color: white;
+  padding: 4em;
+  margin: 1.3em;
+  display: block;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+#img-caption {
+  text-align: center;
+  margin-bottom: -2.6em;
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: rgb(92, 84, 84);
+}
+.pele {
+  font-style: italic;
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+h3 {
+  text-align: center;
+}
